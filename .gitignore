@@ -1,2 +1,23 @@
+### IntelliJ IDEA ###
+/.idea/
+*.iws
+*.iml
+*.ipr
+
+# Compiled class file
+*.class
+
+### Package Files ###
+*.jar
+*.war
+
+### Log file ###
+*.log
+
+### Maven ###
+/.mvn/
+/mvnw.cmd
+/mvnw
+
 # Project exclude paths
 /target/
